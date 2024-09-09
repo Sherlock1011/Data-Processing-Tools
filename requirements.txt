@@ -1,0 +1,6 @@
+numpy==2.1.0
+opencv-python==4.10.0.84
+pip==24.2
+setuptools==72.2.0
+tqdm==4.66.5
+wheel==0.44.0
