@@ -1,0 +1,10 @@
+# basic
+tqdm
+Pillow
+numpy
+opencv-python >= 4.5.1
+
+matplotlib
+
+# load json
+# orjson
